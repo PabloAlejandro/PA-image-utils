@@ -1,0 +1,8 @@
+####
+# Xcode - semi-personal settings
+#
+#     throw away ALL personal settings (including custom schemes!
+#     - unless they are "shared")
+#
+# NB: this is exclusive with OPTION 2 below
+xcuserdata
